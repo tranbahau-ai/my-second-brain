@@ -1,3 +1,5 @@
+{!README.md!}
+
 # Welcome to My Second Brain's documentation!
 
 **Lumache** (/lu\'make/) is a Python library for cooks and food lovers
