@@ -1,2 +1,2 @@
-# my-second-brain
+## 大規模言語モデル
 Everything about LLM, GPT-architecture, Fine-tuning ...
