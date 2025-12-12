@@ -6,7 +6,6 @@ Understanding LLM
 
 [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) (2018)
 
-
 Working with Text Data
 ------------
 - [BPE Tokenizer](https://github.com/karpathy/minbpe)
