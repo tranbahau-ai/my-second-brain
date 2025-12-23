@@ -3,7 +3,6 @@ Trong mô hình Transformer, mỗi token trong input không chỉ phụ thuộc 
 $$
 Attention(Q,K,V) = \text{softmax} (\frac{Q \cdot K^\top}{\sqrt{d_k}}) * V
 $$
-Trong mô hình Transformer, **mỗi token trong input không chỉ phụ thuộc vào lân cận mà quan sát (attend) toàn bộ sequence để hiểu ngữ cảnh**.
 ### Detail explaination
 
 **1. Dot Product (Tích vô hướng)**
